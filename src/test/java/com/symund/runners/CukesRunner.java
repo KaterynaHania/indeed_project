@@ -21,6 +21,7 @@ import org.junit.runner.RunWith;
         tags = "@wip"
         , publish = false
 
+        //comment
 )
 public class CukesRunner {
 }
